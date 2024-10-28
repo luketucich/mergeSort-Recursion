@@ -9,19 +9,19 @@ A simple JavaScript module that sorts arrays using the Merge Sort algorithm thro
 
 ## The Takeaway
 
-Creating the Merge Sort Generator helped me understand different ways to solve the same problem. By implementing the merge sort algorithm, I learned about the strengths of recursive approaches and how to efficiently handle array operations in JavaScript.
+Creating the Merge Sort Generator deepened my understanding of various problem-solving approaches. Implementing the merge sort algorithm showcased the strengths of recursive methods and efficient array handling in JavaScript.
 
 **Key points:**
 
-- **Divide and Conquer:** Split the array into smaller subarrays, sort them individually, and then merge them back together in order.
+- **Divide and Conquer:** Split the array into smaller subarrays, sort them individually, and merge them back in order.
   
-- **Recursive Method:** Utilized recursion to break down the problem into smaller, more manageable parts, enhancing my grasp of recursive thinking in JavaScript.
+- **Recursive Method:** Used recursion to break down the problem into manageable parts, enhancing my grasp of recursive thinking in JavaScript.
   
-- **Code Clarity:** Balanced clear and readable code with performance considerations, ensuring the implementation is both understandable and efficient.
+- **Merging Process:** Faced confusion about how arrays are merged by appending the smallest values from each subarray one by one until they were empty. An online visualizer clarified that the algorithm takes the smallest value from the front of each array during the merge.
   
-- **Problem-Solving:** Enhanced my ability to approach sorting problems methodically and implement effective solutions using algorithmic strategies.
 
-Overall, this project improved my skills in algorithm design, recursive programming, and writing clean and efficient JavaScript code.
+Overall, this project enhanced my skills in algorithm design, recursive programming, and writing clean, efficient JavaScript code.
+
 
 ## Usage
 
